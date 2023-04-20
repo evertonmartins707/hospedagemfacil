@@ -3,7 +3,7 @@ código em linguagem portugol para testar conhecimentos adquiridos através do c
 
 É possível ver todas as versões do código de acordo com o que foi aprendido.
 
-O código é fácil de entender e dispôe de comentários:
+O código é fácil de entender e dispõe de comentários:
 
 1 - Não é possível digitar outro valor ou texto nas tomadas de decisões.
 2 - O código na versão 2 dispôe de "times" para melhor imersão.
